@@ -1,0 +1,16 @@
+<wpml-config>
+  <admin-texts>
+    <key name="theme_mods_kiraz">
+      <key name="mods">
+        <key name="header__topbar__text"/>
+        <key name="header__info__text"/>
+        <key name="footer__copyright__content"/>
+        <key name="blog__related__title"/>
+      </key>
+      <key name="header__topbar__text"/>
+      <key name="header__info__text"/>
+      <key name="footer__copyright__content"/>
+      <key name="blog__related__title"/>
+    </key>
+  </admin-texts>
+</wpml-config>

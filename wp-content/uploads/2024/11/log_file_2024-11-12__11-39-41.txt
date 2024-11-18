@@ -1,0 +1,146 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/themes/kiraz/demo/demo-content.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/themes/kiraz/demo/widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/themes/kiraz/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "b4" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Mail-Notification" (Media)
+[ERROR] Failed to import "3" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "binary-code" (Media)
+[ERROR] Failed to import "cut" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "puzzle-toy" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "t5" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "t10" (Media)
+[ERROR] Failed to import "c-check" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user-heart" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "p2" (Media)
+[ERROR] Failed to import "s3" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "bl" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "img" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "file-pdf" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "hexagon-check" (Media)
+
+
+---Importing widgets---
+Footer #1 : 
+
+Text - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer #2 : 
+
+Navigation Menu - Company - Imported
+
+Footer #3 : 
+
+Navigation Menu - Services - Imported
+
+Footer #4 : 
+
+Navigation Menu - Support - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing widgets---
+Footer #1 : 
+
+Text - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+
+Footer #2 : 
+
+Navigation Menu - Company - Widget already exists
+
+Footer #3 : 
+
+Navigation Menu - Services - Widget already exists
+
+Footer #4 : 
+
+Navigation Menu - Support - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+ Slider processed
